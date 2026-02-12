@@ -1,5 +1,10 @@
-# MA1508E
-ma1508e repo
+# MA1508E Linear Algebra for Engineering
+## ma1508e repo
+This is the repo for the tutorials, notes taken during my AY2425S2 MA1508E Linear Algebra for Engineering Course by Dr. Jonathon Teo.
+The original course materials and programming is based on Matlab, but I rewrote the materials in Sympy for open-source accessibility.
+
+
+Unless otherwise stated, Sympy should be the only dependency so far.
 
 
 # License
